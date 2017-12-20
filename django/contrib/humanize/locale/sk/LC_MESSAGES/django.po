@@ -23,16 +23,16 @@ msgid "Humanize"
 msgstr "Poľudštenie"
 
 msgid "th"
-msgstr "th"
+msgstr "."
 
 msgid "st"
-msgstr "st"
+msgstr "."
 
 msgid "nd"
-msgstr "nd"
+msgstr "."
 
 msgid "rd"
-msgstr "rd"
+msgstr "."
 
 #, python-format
 msgid "%(value).1f million"
